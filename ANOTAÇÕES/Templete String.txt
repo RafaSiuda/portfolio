@@ -1,0 +1,7 @@
+Concatenação
+
+Templete String
+
+const nome = "Rebeca"
+const concatenacao = "Olá" + nome + "!"
+const templete = `Olá ${nome}!`

@@ -1,0 +1,18 @@
+Array
+
+No código abaixo podemos ver uma Array com 5 expressões
+sendo o 10.5 acrescentado na sequência
+
+/* valores[4]=10.5
+
+const valores = [7.7, 8.9, 6.3, 9.2];
+console.log(valores[0], valores[3]);
+console.log(valores[3])
+console.log(valores)
+valores[4]=10.5
+
+console.log(valores[4])
+console.log(valores)
+console.log(valores.length) //O length imprime 
+quantos elementos tem no array
+

@@ -1,0 +1,6 @@
+const escola = "Cod3r"
+
+console.log(escola.charAt(4))
+
+O charAt() irá imprimir qual letra está na posição
+do numero colocado, no caso 4º começando por 0.
